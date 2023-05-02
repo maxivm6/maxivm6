@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills:
+https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat-square
