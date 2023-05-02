@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skills:
-https://img.shields.io/badge/-Django-green?logo=django&logoColor=white&style=flat-square
+Skills:<br>
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square">
+<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square">
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+<img src="https://img.shields.io/badge/-GIT-F05032?logo=git&logoColor=black&style=flat-square">
+<br>
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html&logoColor=black&style=flat-square">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=black&style=flat-square">
